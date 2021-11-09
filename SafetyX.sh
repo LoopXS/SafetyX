@@ -6,7 +6,7 @@ echo "
 \____/\__, /\__/_/ /_/\____/_/ /_/_/|_|  
      /____/
 	    °•° CythonX Installation Begins •°•
-	    °•° Honor CɪᴘʜᴇʀX •°•
+	    °•° Honor Heartless •°•
 
 "
 python3 -m setup.py

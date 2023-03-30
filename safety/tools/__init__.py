@@ -57,7 +57,7 @@ def os_stuff():
 def call_back():
     if _argv:
         sys.argv = _argv[0]
-    from pyUltroid.configs import Var
+    from CythonX.configs import Var
 #    if __env:
 #        open(".env", "w").write(__env["_"])
     for z in _get_sys:

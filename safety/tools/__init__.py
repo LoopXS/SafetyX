@@ -19,8 +19,8 @@ def sys_exit(useless = 0):
 
 # Class Var Clean up
 def cleanup_cache(what_u_doing_here=None):
-    from pyUltroid.configs import Var
-    from pyUltroid import ultroid_bot, asst, vcClient
+    from CythonX.configs import Var
+    from CythonX import ultroid_bot, asst, vcClient
     try:
 #       for sig in (signal.SIGHUP, signal.SIGTERM, signal.SIGINT, signal.SIGUSR1, signal.SIGHUP, signal.SIGILL, signal.SIGBUS, signal.SIGSEGV):
 #            asst.loop.add_signal_handler(sig, lambda _sig=sig: sys_exit())
